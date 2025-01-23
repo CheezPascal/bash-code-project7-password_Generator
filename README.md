@@ -1,4 +1,4 @@
-# bash-cpde-project7-password_Generator
+# bash-code-project7-password_Generator
 
 -------------------------------
 Password Generator
